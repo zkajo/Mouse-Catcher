@@ -1,0 +1,15 @@
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\bin\Debug\FirstWpfApp.exe.config
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\bin\Debug\FirstWpfApp.exe
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\bin\Debug\FirstWpfApp.pdb
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.csprojAssemblyReference.cache
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\App.g.cs
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp_MarkupCompile.cache
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp_MarkupCompile.lref
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\MainWindow.baml
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.g.resources
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.Properties.Resources.resources
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.csproj.GenerateResource.cache
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.exe
+C:\Users\zbigniew.kajota\source\repos\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="FirstWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FirstWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        MouseRightButtonDown="Window_MouseRightButtonDown">
+    <Grid>
+        <TextBlock FontSize="20" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="273,0,273,121">Right click to copy position</TextBlock>
+        <TextBlock Name="TBK" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">TBK</TextBlock>
+    </Grid>
+</Window>
